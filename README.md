@@ -1,9 +1,10 @@
 # ¡Hola! Soy Edward Raúl Rosales Moreno 👋
 ### 👨‍💻 Software Architect Student | Full Stack, Cloud & Game Developer
 
-¡Bienvenido a mi espacio en GitHub! Soy un desarrollador enfocado en construir soluciones tecnológicas escalables, estructuradas y eficientes. Mi perfil combina el desarrollo Full Stack, la computación en la nube (Cloud/DevOps), el análisis de datos y la creación de videojuegos.
+¡Bienvenido! Soy un desarrollador enfocado en construir soluciones tecnológicas escalables, estructuradas y eficientes. Mi perfil combina el desarrollo Full Stack, la computación en la nube (Cloud/DevOps), el análisis de datos y la creación de videojuegos.
 
 Apasionado por la arquitectura de software, el orden metodológico, la contenedorización y la resolución de problemas complejos utilizando herramientas modernas.
+Tengo mis horizontes trazadas en siempre aprender.
 
 ---
 
@@ -64,10 +65,10 @@ Apasionado por la arquitectura de software, el orden metodológico, la contenedo
 
 ## 🚀 Proyectos Destacados
 
-### 💻 [RaspaGato (Tu aplicación Full Stack)](https://github.com/edwardrosales27032008-source)
+### 💻 Sistema para emitir votos electorales Perú2026
 *Aplicación web completa con lógica backend y persistencia en la nube.*
-- **Stack:** Node.js, Express, MongoDB Atlas, HTML, CSS, JavaScript, Bootstrap.
-- **Características:** Arquitectura modular, diseño UI adaptativo y manejo de rutas protegidas.
+- **Stack:** Node.js, Express, MongoDB Atlas, HTML, CSS, JavaScript, Docker y azure.
+- **Características:** Arquitectura monolítica, diseño UI adaptativo y manejo de rutas protegidas.
 
 ### 🎮 [Videojuego Indie en Godot](https://github.com/edwardrosales27032008-source)
 *Desarrollo completo de mecánicas de juego interactivas utilizando patrones de diseño para videojuegos.*
@@ -91,10 +92,10 @@ Apasionado por la arquitectura de software, el orden metodológico, la contenedo
 ## 📫 Contacto y Redes
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/edward-rosales-moreno" target="_blank">
+  <a href="[https://www.linkedin.com/in/edward-rosales-moreno](https://www.linkedin.com/in/edward-rosales-moreno-6093763aa/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@email.com">
+  <a href="mailto:edwardrosales27032008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
