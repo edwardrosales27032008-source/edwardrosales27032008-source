@@ -1,43 +1,100 @@
 # ¡Hola! Soy Edward Raúl Rosales Moreno 👋
+### 👨‍💻 Software Architect Student | Full Stack, Cloud & Game Developer
 
-### 👨‍💻 Estudiante de Arquitectura de Software | Diseñador UI | Tech Enthusiast
+¡Bienvenido a mi espacio en GitHub! Soy un desarrollador enfocado en construir soluciones tecnológicas escalables, estructuradas y eficientes. Mi perfil combina el desarrollo Full Stack, la computación en la nube (Cloud/DevOps), el análisis de datos y la creación de videojuegos.
 
-¡Bienvenido a mi espacio en GitHub! Me apasiona el desarrollo web, la creación de interfaces de usuario atractivas y el aprendizaje constante de nuevas tecnologías. Actualmente me encuentro expandiendo mis habilidades técnicas y mejorando mi nivel de inglés.
-
----
-
-## 🚀 Sobre mí
-
-- 🎓 Estudiante en **CERTUS**.
-- 🛠️ Desarrollando proyectos web interactivos usando **HTML, CSS y JavaScript**.
-- 🎨 Interesado en el **Diseño de UI** y la experiencia de usuario (UX).
-- 🗣️ Practicando e incorporando **Inglés Básico** en mi documentación y código.
-- 📍 Lima, Perú.
+Apasionado por la arquitectura de software, el orden metodológico, la contenedorización y la resolución de problemas complejos utilizando herramientas modernas.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-Aquí hay algunas de las tecnologías con las que trabajo:
+### 🌐 Frontend & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Diseño** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+### ⚙️ Backend & Bases de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### ☁️ Cloud, DevOps & Entorno de Trabajo
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D148C?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
+
+### 🐍 Ciencia de Datos y Automatización (Python)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+</p>
+
+### 🎮 Desarrollo de Videojuegos
+<p align="left">
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue" alt="Godot" />
+  <img src="https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=red" alt="OpenGL" />
+  <code>GDScript</code>
+</p>
+
+---
+
+## 📈 Metodologías y Análisis de Software
+- **Gestión Ágil:** Dominio de Scrum y Kanban para organizar flujos de trabajo eficientes.
+- **Diseño de Arquitectura:** Creación de algoritmos, diagramas de flujo, diagramas de actividades y casos de uso para estructurar proyectos antes de codificar.
+- **Testing Multi-navegador:** Experiencia gestionando y validando despliegues frontend en múltiples entornos web.
+- **Idiomas:** Inglés Básico (ICPNA).
+- **Productividad:** Microsoft Office completo.
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 💻 [RaspaGato (Tu aplicación Full Stack)](https://github.com/edwardrosales27032008-source)
+*Aplicación web completa con lógica backend y persistencia en la nube.*
+- **Stack:** Node.js, Express, MongoDB Atlas, HTML, CSS, JavaScript, Bootstrap.
+- **Características:** Arquitectura modular, diseño UI adaptativo y manejo de rutas protegidas.
+
+### 🎮 [Videojuego Indie en Godot](https://github.com/edwardrosales27032008-source)
+*Desarrollo completo de mecánicas de juego interactivas utilizando patrones de diseño para videojuegos.*
+- **Stack:** Godot Engine, GDScript, lógica de algoritmos complejos.
+
+### 📊 [Automatización y Web Scraping](https://github.com/edwardrosales27032008-source)
+*Extracción de información desde la web para análisis estadístico.*
+- **Stack:** Python, Beautiful Soup, Pandas, NumPy, Matplotlib.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-Aquí puedes ver un resumen de mi actividad:
-
-![Estadísticas de Edward](https://github-readme-stats.vercel.app/api?username=edwardrosales27032008-source&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardrosales27032008-source&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edwardrosales27032008-source&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Edward" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardrosales27032008-source&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
+</p>
 
 ---
 
-## 📫 Conéctate conmigo
+## 📫 Contacto y Redes
 
-- **LinkedIn:** [Tu Nombre en LinkedIn](AQUÍ_VA_EL_LINK_DE_TU_PERFIL)
-- **Proyectos Destacados:** No olvides revisar [Historia-interactiva](https://github.com/edwardrosales27032008-source/Historia-interactiva) e [Invitacion_Boda](https://github.com/edwardrosales27032008-source/Invitacion_Boda).
+<p align="left">
+  <a href="https://www.linkedin.com/in/edward-rosales-moreno" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-correo@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
