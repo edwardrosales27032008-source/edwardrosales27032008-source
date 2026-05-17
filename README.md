@@ -65,7 +65,7 @@ Tengo mis horizontes trazadas en siempre aprender.
 
 ## 🚀 Proyectos Destacados
 
-### 💻 Sistema para emitir votos electorales Perú2026
+### 💻 [Sistema para emitir votos electorales Perú2026](https://github.com/edwardrosales27032008-source)
 *Aplicación web completa con lógica backend y persistencia en la nube.*
 - **Stack:** Node.js, Express, MongoDB Atlas, HTML, CSS, JavaScript, Docker y azure.
 - **Características:** Arquitectura monolítica, diseño UI adaptativo y manejo de rutas protegidas.
@@ -83,8 +83,8 @@ Tengo mis horizontes trazadas en siempre aprender.
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwardrosales27032008-source&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Edward" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardrosales27032008-source&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=edwardrosales27032008&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Edward" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=edwardrosales27032008&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ Tengo mis horizontes trazadas en siempre aprender.
 ## 📫 Contacto y Redes
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/edward-rosales-moreno](https://www.linkedin.com/in/edward-rosales-moreno-6093763aa/)" target="_blank">
+  <a href="https://www.linkedin.com/in/edward-rosales-moreno-6093763aa/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:edwardrosales27032008@gmail.com">
