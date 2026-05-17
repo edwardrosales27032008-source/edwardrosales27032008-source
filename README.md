@@ -48,7 +48,7 @@ Apasionado por la arquitectura de software, el orden metodológico, la contenedo
 <p align="left">
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue" alt="Godot" />
   <img src="https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=red" alt="OpenGL" />
-  <code>GDScript</code>
+  <img src="https://i.redd.it/5jw4q51rpip91.png" />
 </p>
 
 ---
