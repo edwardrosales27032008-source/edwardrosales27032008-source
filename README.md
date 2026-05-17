@@ -42,13 +42,13 @@ Apasionado por la arquitectura de software, el orden metodológico, la contenedo
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=red" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-%234E9A06.svg?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
 </p>
 
 ### 🎮 Desarrollo de Videojuegos
 <p align="left">
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue" alt="Godot" />
-  <img src="https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=red" alt="OpenGL" />
-  <img src="https://i.redd.it/5jw4q51rpip91.png" />
 </p>
 
 ---
