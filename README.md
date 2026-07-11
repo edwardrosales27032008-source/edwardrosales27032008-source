@@ -1,10 +1,10 @@
 # ¡Hola! Soy Edward Raúl Rosales Moreno 👋
-### 👨‍💻 Software Architect Student | Full Stack, Cloud & Game Developer
+### Estudiante de 2do ciclo de administración de sistemas
 
 ¡Bienvenido! Soy un desarrollador enfocado en construir soluciones tecnológicas escalables, estructuradas y eficientes. Mi perfil combina el desarrollo Full Stack, la computación en la nube (Cloud/DevOps), el análisis de datos y la creación de videojuegos.
 
 Apasionado por la arquitectura de software, el orden metodológico, la contenedorización y la resolución de problemas complejos utilizando herramientas modernas.
-Tengo mis horizontes trazadas en siempre aprender.
+Tengo mis horizontes trazados en siempre aprender.
 
 ---
 
