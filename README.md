@@ -12,7 +12,7 @@ Tecnologías y Herramientas:
 <p align="left">
   <img src="imagen.jpg" alt="Descripción de la imagen" width="200" height="200">
   <img src="imagen.jpg" alt="Descripción de la imagen" width="200" height="200">
-  <img src="[imagen.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)" alt="Descripción de la imagen" width="200" height="200">
+  <img src="[[imagen.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png)" alt="Descripción de la imagen" width="200" height="200">
   <img src="imagen.jpg" alt="Descripción de la imagen" width="200" height="200">
 </p>
 
