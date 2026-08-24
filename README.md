@@ -1,10 +1,8 @@
 # ¡Hola! Soy Edward Raúl Rosales Moreno 👋
-### Estudiante de 2do ciclo de administración de sistemas
+### Estudiante de 3er ciclo de administración de sistemas
 
-¡Bienvenido! Soy un desarrollador enfocado en construir soluciones tecnológicas escalables, estructuradas y eficientes. Mi perfil combina el desarrollo Full Stack, la computación en la nube (Cloud/DevOps), el análisis de datos y la creación de videojuegos.
-
-Apasionado por la arquitectura de software, el orden metodológico, la contenedorización y la resolución de problemas complejos utilizando herramientas modernas.
-Tengo mis horizontes trazados en siempre aprender.
+Soy un desarrollador apasionado por la tecnologí y donde siempre construir soluciones escalables, estructuradas y eficientes. Mi perfil combina el desarrollo Full Stack y la computación en la nube (Cloud/DevOps).
+Apasionado por la arquitectura de sistemas, el orden metodológico, la contenedorización y la resolución de problemas complejos utilizando herramientas modernas, el trabajo en equipo priorizando marcos de trabajo ágiles.
 
 ---
 
@@ -46,21 +44,6 @@ Tengo mis horizontes trazados en siempre aprender.
   <img src="https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=red" alt="OpenGL" />
   <img src="https://img.shields.io/badge/Beautiful%20Soup-%234E9A06.svg?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
 </p>
-
-### 🎮 Desarrollo de Videojuegos
-<p align="left">
-  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue" alt="Godot" />
-</p>
-
----
-
-## 📈 Metodologías y Análisis de Software
-- **Gestión Ágil:** Dominio de Scrum y Kanban para organizar flujos de trabajo eficientes.
-- **Diseño de Arquitectura:** Creación de algoritmos, diagramas de flujo, diagramas de actividades y casos de uso para estructurar proyectos antes de codificar.
-- **Testing Multi-navegador:** Experiencia gestionando y validando despliegues frontend en múltiples entornos web.
-- **Idiomas:** Inglés Básico (ICPNA).
-- **Productividad:** Microsoft Office completo.
-
 ---
 
 ## 🚀 Proyectos Destacados
@@ -69,10 +52,6 @@ Tengo mis horizontes trazados en siempre aprender.
 *Aplicación web completa con lógica backend y persistencia en la nube.*
 - **Stack:** Node.js, Express, MongoDB Atlas, HTML, CSS, JavaScript, Docker y azure.
 - **Características:** Arquitectura monolítica, diseño UI adaptativo y manejo de rutas protegidas.
-
-### 🎮 [Videojuego Indie en Godot](https://github.com/edwardrosales27032008-source)
-*Desarrollo completo de mecánicas de juego interactivas utilizando patrones de diseño para videojuegos.*
-- **Stack:** Godot Engine, GDScript, lógica de algoritmos complejos.
 
 ### 📊 [Automatización y Web Scraping](https://github.com/edwardrosales27032008-source)
 *Extracción de información desde la web para análisis estadístico.*
