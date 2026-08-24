@@ -13,7 +13,7 @@ Tecnologías y Herramientas:
   <img src="https://images.seeklogo.com/logo-png/48/1/mongodb-logo-png_seeklogo-481256.png" alt="Logo MongoDB" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Logo Express" width="200" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png" alt="Logo React" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/3840px-Node.js_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Logo NodeJS" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/3840px-Node.js_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Logo NodeJS" width="80" height="50">
 </p>
 
 - Backend & Bases de Datos
@@ -33,11 +33,11 @@ Tecnologías y Herramientas:
 
 Ciencia de Datos y Automatización (Python)
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/3840px-Pandas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="200" height="50" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/3840px-NumPy_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="200" height="50 alt="NumPy" />
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="200" height="50 alt="Matplotlib" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/960px-OpenGL_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="200" height="50 alt="OpenGL" />
-  <img src="https://app.matatika.com/assets/images/datasource/tap-beautifulsoup.png" width="200" height="50" alt="Beautiful Soup" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/3840px-Pandas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="180" height="50" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/3840px-NumPy_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="180" height="50 alt="NumPy" />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="180" height="50 alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/960px-OpenGL_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="180" height="50 alt="OpenGL" />
+  <img src="https://app.matatika.com/assets/images/datasource/tap-beautifulsoup.png" width="180" height="50" alt="Beautiful Soup" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="50" height="50" alt="Logo Selenium" />
 </p>
 ---
