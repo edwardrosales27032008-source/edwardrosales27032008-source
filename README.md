@@ -31,7 +31,7 @@ Tecnologías y Herramientas:
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" width="50" height="50" alt="Linux" />
 </p>
 
-Ciencia de Datos y Automatización (Python)
+- Ciencia de Datos y Automatización (Python)
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/3840px-Pandas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="180" height="50" alt="Pandas" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/3840px-NumPy_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="180" height="50 alt="NumPy" />
@@ -40,7 +40,6 @@ Ciencia de Datos y Automatización (Python)
   <img src="https://app.matatika.com/assets/images/datasource/tap-beautifulsoup.png" width="180" height="50" alt="Beautiful Soup" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="50" height="50" alt="Logo Selenium" />
 </p>
----
 
 ## Proyectos Destacados
 
