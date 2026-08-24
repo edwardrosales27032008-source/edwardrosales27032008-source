@@ -6,14 +6,14 @@ Apasionado por la arquitectura de sistemas, el orden metodológico, la contenedo
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+Tecnologías y Herramientas:
 
-### 🌐 Frontend & UI
+- Stack MERN
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="imagen.jpg" alt="Descripción de la imagen" width="200" height="200">
+  <img src="imagen.jpg" alt="Descripción de la imagen" width="200" height="200">
+  <img src="[imagen.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)" alt="Descripción de la imagen" width="200" height="200">
+  <img src="imagen.jpg" alt="Descripción de la imagen" width="200" height="200">
 </p>
 
 ### ⚙️ Backend & Bases de Datos
