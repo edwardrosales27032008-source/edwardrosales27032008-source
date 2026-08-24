@@ -1,7 +1,7 @@
 ¡Hola! Soy Edward Rosales Moreno
 ### Estudiante de 3er ciclo de administración de sistemas
 
-Soy un desarrollador apasionado por la tecnologí y donde siempre construir soluciones escalables, estructuradas y eficientes. Mi perfil combina el desarrollo Full Stack y la computación en la nube (Cloud/DevOps).
+Soy un desarrollador apasionado por la tecnología y donde siempre construir soluciones escalables, estructuradas y eficientes son mi prioridad. Mi perfil combina el desarrollo Full Stack y la computación en la nube (Cloud/DevOps).
 Apasionado por la arquitectura de sistemas, el orden metodológico, la contenedorización y la resolución de problemas complejos utilizando herramientas modernas, el trabajo en equipo priorizando marcos de trabajo ágiles.
 
 ---
