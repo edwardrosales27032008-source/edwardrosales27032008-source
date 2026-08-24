@@ -19,27 +19,26 @@ Tecnologías y Herramientas:
 - Backend & Bases de Datos
 <p align="left">
   <img src="https://images.icon-icons.com/2415/PNG/512/redis_plain_logo_icon_146366.png" width="100" height="100" alt="Redis" />
-  <img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="Firebase" />
 </p>
 
 - Cloud, DevOps & Entorno de Trabajo
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Amazon_Web_Services_2025.svg/1280px-Amazon_Web_Services_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="100" height="100" alt="AWS" />
+  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" width="100" height="100" alt="Azure" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD95ZR-DTM0odnOJa2W2y5stUXx1AYta8pMiQZVVsd6regGnpp6uKK9U&s=10" width="100" height="100" alt="Docker" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/500px-Git_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="100" height="100" alt="Git" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" width="100" height="100" alt="Linux" />
 </p>
 
 Ciencia de Datos y Automatización (Python)
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=red" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-%234E9A06.svg?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Logo Selenium" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/3840px-Pandas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="250" height="50" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/3840px-NumPy_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="250" height="50 alt="NumPy" />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="250" height="50 alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/960px-OpenGL_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="250" height="50 alt="OpenGL" />
+  <img src="https://app.matatika.com/assets/images/datasource/tap-beautifulsoup.png" alt="Beautiful Soup" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="100" height="100" alt="Logo Selenium" />
 </p>
 ---
 
