@@ -1,4 +1,4 @@
-# ¡Hola! Soy Edward Raúl Rosales Moreno 👋
+¡Hola! Soy Edward Rosales Moreno
 ### Estudiante de 3er ciclo de administración de sistemas
 
 Soy un desarrollador apasionado por la tecnologí y donde siempre construir soluciones escalables, estructuradas y eficientes. Mi perfil combina el desarrollo Full Stack y la computación en la nube (Cloud/DevOps).
