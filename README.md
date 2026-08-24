@@ -11,14 +11,14 @@ Tecnologías y Herramientas:
 - Stack MERN
 <p align="left">
   <img src="https://images.seeklogo.com/logo-png/48/1/mongodb-logo-png_seeklogo-481256.png" alt="Logo MongoDB" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Logo Express" width="50" height="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Logo Express" width="300" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png" alt="Logo React" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/3840px-Node.js_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Logo NodeJS" width="100" height="100">
 </p>
 
 - Backend & Bases de Datos
 <p align="left">
-  <img src="https://images.icon-icons.com/2415/PNG/512/redis_plain_logo_icon_146366.png" alt="Redis" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/redis_plain_logo_icon_146366.png" width="100" height="100" alt="Redis" />
   <img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
